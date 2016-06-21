@@ -1,0 +1,8 @@
+name 'helloweb'
+maintainer 'chef'
+maintainer_email 'solutions-architects@chef.io'
+license 'all_rights'
+description 'Installs/Configures helloweb'
+long_description 'Installs/Configures helloweb'
+version '0.1.0'
+depends 'httpdbaas'
